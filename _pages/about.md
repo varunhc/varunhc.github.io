@@ -47,14 +47,14 @@ My research interests includes image processing, computer vision, signal process
       <div class="info">
         <h3 class="title">Data Scientist Intern</h3>
         <h5 class="title"><b>Wipro</b></h5>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+        <p>Worked on Proactive Ticket monitoring for predicting network device failure and automating root cause analysis for one of the largest telecom providers in the world.</p>
       </div>
     </div>
     <div class="title-cards">
       <div class="info">
         <h3 class="title">Machine Learning Engineer Intern</h3>
         <h5 class="title"><b>Oil and Natural Gas Corporation</b></h5>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+        <p>Worked on creating generative models for predicting seismic survey paths based on the landform features extracted from the satellite images.</p>
       </div>
     </div>
     <!-- <div class="card">
