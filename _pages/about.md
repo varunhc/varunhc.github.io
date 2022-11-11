@@ -14,7 +14,7 @@ selected_papers: ture # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 news: false  # includes a list of news items
 ---
-Hi, this is Varun.
+Hi, I currently work as a Software Engineer at Soroco. My research interests includes image processing, computer vision, signal processing and healthcare.
 
 <h2> Experience </h2>
 <div class="timeline">
