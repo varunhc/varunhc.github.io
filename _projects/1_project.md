@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: ML for low-cost field-portable cytometry
+description: Image Processing of DIH images for cell-characterization.
+img: assets/img/project_1.png
 importance: 1
 category: work
 ---
