@@ -18,10 +18,9 @@ Hi, I currently work as a Software Engineer at Soroco.
 
 
 My research interests includes image processing, computer vision, signal processing and healthcare. 
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
