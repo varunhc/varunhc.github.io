@@ -39,21 +39,21 @@ My research interests includes image processing, computer vision, signal process
     <div class="title-cards">
       <div class="info">
         <h3 class="title">Software Engineer</h3>
-        <h4 class="title">Soroco</h4>
+        <h5 class="title"><b>Soroco</b></h5>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
       </div>
     </div>
     <div class="title-cards">
       <div class="info">
         <h3 class="title">Data Scientist Intern</h3>
-        <h3 class="title">Wipro</h3>
+        <h5 class="title"><b>Wipro</b></h5>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
       </div>
     </div>
     <div class="title-cards">
       <div class="info">
         <h3 class="title">Machine Learning Engineer Intern</h3>
-        <h4 class="title">Oil and Natural Gas Corporation</h4>
+        <h5 class="title"><b>Oil and Natural Gas Corporation</b></h5>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
       </div>
     </div>
