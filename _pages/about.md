@@ -39,7 +39,7 @@ My research interests includes image processing, computer vision, signal process
     <div class="title-cards">
       <div class="info">
         <h3 class="title">Software Engineer</h3>
-        <h5 class="title"><b>Soroco</b></h5>
+        <h5 class="title"><img src="https://soroco.com/wp-content/uploads/2021/08/logo-icon.svg" width="56px" height="56px"><b>Soroco</b></h5>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
       </div>
     </div>
