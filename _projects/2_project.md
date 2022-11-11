@@ -2,7 +2,7 @@
 layout: page
 title: Smart ELISA reader
 description: Enzyme-linked immunosorbent assay reader powered by neural network-based segmentation and spectroscopy.
-img: assets/img/3.jpg
+img: assets/img/project_2.png
 importance: 2
 category: work
 ---
