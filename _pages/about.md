@@ -39,8 +39,12 @@ My research interests includes image processing, computer vision, signal process
     <div class="title-cards">
       <div class="info">
         <h3 class="title">Software Engineer</h3>
-        <h5 class="title"><img src="https://soroco.com/wp-content/uploads/2021/08/logo-icon.svg" width="56px" height="56px"><b>Soroco</b></h5>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+        <h5 class="title"><img src="../assets/img/1.jpg" width="56px" height="56px"><b>Soroco</b></h5>
+        <p>Worked on authorization and authentication services.
+Designing and implementing microservices in Python and Go.
+Experience working with containerisation using Docker and Podman and orchestration using Ansible.
+Worked with Azure DevOps for creating and running build pipelines to automate testing and containerizing the releases.
+</p>
       </div>
     </div>
     <div class="title-cards">
