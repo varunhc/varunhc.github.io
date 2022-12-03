@@ -18,6 +18,8 @@ Hi, I currently work as a Software Engineer at Soroco.
 
 
 My research interests includes image processing, computer vision, signal processing and healthcare. 
+Interested to work in a stimulating environment where I can apply and enhance my knowledge and skills to
+serve the firm to the best of my efforts.
 <br>
 <br>
 <br>
@@ -28,37 +30,54 @@ My research interests includes image processing, computer vision, signal process
 <br>
 <br>
 <br>
-
-
-
-
 
 <h2> Experience </h2>
 <div class="timeline">
   <div class="outer">
     <div class="title-cards">
       <div class="info">
-        <h3 class="title">Software Engineer</h3>
-        <h5 class="title"><img src="../assets/img/1.jpg" width="56px" height="56px"><b>Soroco</b></h5>
-        <p>Worked on authorization and authentication services.
-Designing and implementing microservices in Python and Go.
-Experience working with containerisation using Docker and Podman and orchestration using Ansible.
-Worked with Azure DevOps for creating and running build pipelines to automate testing and containerizing the releases.
-</p>
+        <h4 class="title">Software Engineer</h4>
+        <h5 class="title"><img src="https://soroco.com/wp-content/uploads/2021/08/logo-icon.svg" width="56px" height="56px"><b>Soroco</b></h5>
+        <h6 class="exper-card"><i>(November, 2020-Present)</i></h6>
+        <ul>
+          <li>Worked on authorization and authentication services.</li>
+          <li>Designing and implementing microservices in Python and Go.</li>
+          <li>Experience working with containerisation using Docker and Podman and orchestration using Ansible.</li>
+          <li>Worked with Azure DevOps for creating and running build pipelines to automate testing and containerizing the releases.</li>
+          <li>Optimized audit log framework by restructuring the code to make asynchronous db update calls using Celery and Redis, improving the API response time by 18%.</li>
+          <li>Improved authorization response time by 60% by designing and implementing an efficient redis cache for user authorization information.</li>
+          <li>Designed redis cache structure to support constant time lookup for 95% of the cases.</li>
+          <li>Implemented single-sign-on (SSO) to support OpenID and SAML.</li>
+        </ul>
       </div>
     </div>
     <div class="title-cards">
       <div class="info">
-        <h3 class="title">Data Scientist Intern</h3>
-        <h5 class="title"><b>Wipro</b></h5>
-        <p>Worked on Proactive Ticket monitoring for predicting network device failure and automating root cause analysis for one of the largest telecom providers in the world.</p>
+        <h4 class="title">Data Scientist Intern</h4>
+        <h5 class="title"><img src="https://www.wipro.com/content/dam/nexus/en/wipro-logo-new-og-502x263.jpg" width="60px" height="30px"><b>Wipro</b></h5>
+        <h6 class="exper-card"><i>(January-May, 2020)</i></h6>
+        <ul>
+          <li>Worked on Proactive ticket monitoring for one of the largest telecom providers in the world.</li>
+          <li>The project dealt with event correlation, clustering, and predictive analysis of Simple Network Management Protocol (SNMP) event logs.</li>
+          <li>Derived correlations between various network elements.</li>
+          <li>Created situations based on the correlation of the alarms, and performed root cause analysis.</li>
+          <li>Incorporated functionalities such as dynamic update of the element correlation and resolution suggestion.</li>
+          <br>
+          <p>Result: Created 172 situations from 3859 alarms with 87% accuracy.</p>
+        </ul>
       </div>
     </div>
     <div class="title-cards">
       <div class="info">
-        <h3 class="title">Machine Learning Engineer Intern</h3>
-        <h5 class="title"><b>Oil and Natural Gas Corporation</b></h5>
-        <p>Worked on creating generative models for predicting seismic survey paths based on the landform features extracted from the satellite images.</p>
+        <h4 class="title">Machine Learning Engineer Intern</h4>
+        <h5 class="title"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/ONGC_Logo.svg/1200px-ONGC_Logo.svg.png" width="56px" height="56px" style="margin-right:10px;"><b>Oil and Natural Gas Corporation</b></h5>
+        <h6 class="exper-card"><i>(June-July, 2019)</i></h6>
+        <ul>
+          <li>Worked with Convolutional Neural Networks and Generative Adversarial Networks for generating seismic survey paths.</li>
+          <li>Segmentation and Feature extraction from satellite images.</li>
+          <br>
+          <p>Result: Performed feature extraction on four types of landforms with 96% accuracy.</p>
+        </ul>
       </div>
     </div>
     <!-- <div class="card">

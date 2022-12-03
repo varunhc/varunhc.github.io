@@ -2,9 +2,9 @@
 <div class="grid-sizer"></div>
 <div class="grid-item">
   {% if project.redirect -%}
-  <a href="{{ project.redirect }}">
+  <p>
     {%- else -%}
-    <a href="{{ project.url | relative_url }}">
+    <p href="#">
       {%- endif %}
       <div class="card hoverable">
         {%- if project.img %}
@@ -13,9 +13,11 @@
           alt="project thumbnail" -%}
         {%- endif %}
         <div class="card-body">
-          <h2 class="card-title text-lowercase">{{ project.title }}</h2>
+          <h5 class="card-title">{{ project.title }}</h5>
+          <p class="card-text"><i>{{ project.author }}</i></p>
+          <br>
           <p class="card-text">{{ project.description }}</p>
-          <div class="row ml-1 mr-1 p-0">
+          <div class="row ml-3 mr-3 p-0">
             {%- if project.github -%}
             <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Code Repository">
@@ -32,5 +34,5 @@
           </div>
         </div>
       </div>
-    </a>
+    </p>
 </div>

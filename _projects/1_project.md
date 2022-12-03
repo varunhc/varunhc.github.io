@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ML for low-cost field-portable cytometry
+author: Dr. Mohendra Roy, PDPU, Gandhinagar; Dr. Sungkyu Seo, Korea University, Seoul
+title: ML-powered DIH image cytometry
 description: Image Processing of DIH images for cell-characterization.
 img: assets/img/project_1.png
 importance: 1

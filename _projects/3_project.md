@@ -1,7 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Distributed Image Processing 
+author: 
+description: Implemented a distributed version of Image processing algorithms using U-Net to classify landforms from satellite images.
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Smart ELISA reader
+author: Dr. Abhijit Roy, IISc, Bangalore; Dr. Mohendra Roy, PDPU, Gandhinagar
+title: Low-cost ELISA microplate reader
 description: Enzyme-linked immunosorbent assay reader powered by neural network-based segmentation and spectroscopy.
 img: assets/img/project_2.png
 importance: 2
