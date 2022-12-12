@@ -1,10 +1,9 @@
 ---
 layout: page
+author: Varun Chauhan
 title: Distributed Image Processing 
-author: 
 description: Implemented a distributed version of Image processing algorithms using U-Net to classify landforms from satellite images.
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/project_3.jpg
 importance: 3
 category: work
 ---
