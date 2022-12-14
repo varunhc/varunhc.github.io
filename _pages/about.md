@@ -40,12 +40,10 @@ AI for social good, and privacy and fairness in AI. My previous work includes ML
         <h5 class="title"><img src="https://soroco.com/wp-content/uploads/2021/08/logo-icon.svg" width="56px" height="56px"><b>Soroco</b></h5>
         <h6 class="exper-card"><i>(November, 2020-Present)</i></h6>
         <ul>
-          <li>Worked on authorization and authentication services.</li>
-          <li>Designing and implementing microservices in Python and Go.</li>
-          <li>Experience working with containerisation using Docker and Podman and orchestration using Ansible.</li>
-          <li>Worked with Azure DevOps for creating and running build pipelines to automate testing and containerizing the releases.</li>
+          <li>Designed and implemented authentication and authorization microservices in Python and Go.</li>
+          <li>Worked with Azure DevOps for creating and running build pipelines to automate testing and containerizing releases using Docker and Podman and orchestrating deployment using Ansible.</li>
           <li>Optimized audit log framework by restructuring the code to make asynchronous db update calls using Celery and Redis, improving the API response time by 18%.</li>
-          <li>Improved authorization response time by 60% by designing and implementing an efficient redis cache for user authorization information.</li>
+          <li>Improved authorization response time by 30% by designing and implementing an efficient redis cache for user authorization information.</li>
           <li>Designed redis cache structure to support constant time lookup for 95% of the cases.</li>
           <li>Implemented single-sign-on (SSO) to support OpenID and SAML.</li>
         </ul>
