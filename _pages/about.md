@@ -18,7 +18,7 @@ Hi, I currently work as a Software Engineer at Soroco.
 
 
 My research interests includes image and signal processing, computer vision and healthcare. I'm interested in
-AI for social good, and privacy and fairness in AI. My previous work includes ML-powered Lab-on-Chip cytometry and other telemedicine devices. I have also worked on distributed ML, geospatial image procesing and a bit of smart contracts.
+AI for social good, and privacy and fairness in AI. My previous work includes ML-powered Lab-on-Chip cytometry and other telemedicine devices. I have also worked on distributed ML, geospatial image processing, and a bit of smart contracts.
 
 <br>
 <br>
