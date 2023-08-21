@@ -32,10 +32,6 @@ processing, and a bit of smart contracts.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 <h2> Experience </h2>
 <div class="timeline">
