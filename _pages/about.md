@@ -14,11 +14,17 @@ selected_papers: ture # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 news: false  # includes a list of news items
 ---
-Hi, I currently work as a Software Engineer at Soroco.
+Hi, I'm currently pursuing a Master's degree in Computer Science at University of California, Irvine.
 
+I have extensive working knowledge as a Software Engineer. In the past couple of years, I have worked on some very
+interesting problems like memory leakages, sso redirect problems, container memory management, message broking,
+asynchronous schedulers, network latency, caching strategies, and security vulnerabilities. Apart from these, my 
+regular work day involves architecting microservices, API design and development, performance testing, and pipelining.
 
-My research interests includes image and signal processing, neural network architectures amd their interpretability, and healthcare. I'm also interested in
-AI for social good, and privacy and fairness in AI. My previous work includes ML-powered Lab-on-Chip cytometry and other telemedicine devices. I have also worked on distributed ML, geospatial image processing, and a bit of smart contracts.
+My research interests includes image and signal processing, neural network architectures amd their interpretability, and 
+healthcare. I'm also interested in AI for social good, and privacy and fairness in AI. My previous research includes 
+ML-powered Lab-on-Chip cytometry and other telemedicine devices. I have also worked on distributed ML, geospatial image 
+processing, and a bit of smart contracts.
 
 <br>
 <br>
