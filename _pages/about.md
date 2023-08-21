@@ -40,12 +40,21 @@ AI for social good, and privacy and fairness in AI. My previous work includes ML
         <h5 class="title"><img src="https://soroco.com/wp-content/uploads/2021/08/logo-icon.svg" width="56px" height="56px"><b>Soroco</b></h5>
         <h6 class="exper-card"><i>(November, 2020-Present)</i></h6>
         <ul>
-          <li>Designed and implemented authentication and authorization microservices in Python and Go.</li>
-          <li>Worked with Azure DevOps for creating and running build pipelines to automate testing and containerizing releases using Docker and Podman and orchestrating deployment using Ansible.</li>
-          <li>Optimized audit log framework by restructuring the code to make asynchronous db update calls using Celery and Redis, improving the API response time by 18%.</li>
-          <li>Improved authorization response time by 30% by designing and implementing an efficient redis cache for user authorization information.</li>
-          <li>Designed redis cache structure to support constant time lookup for 95% of the cases.</li>
-          <li>Implemented single-sign-on (SSO) to support OpenID and SAML.</li>
+          <li>Extensive working experience in developing web services that follow SOAP protocol and REST guidelines in
+              Python and Go.
+          </li>
+          <li>Experience in working with observability tools such as Datadog and ElasticSearch for performance
+              monitoring and debugging.
+          </li>
+          <li>Accustomed to using platforms such as Veracode and Snyk for detecting and fixing security vulnerabilities
+              resulting in an 82% improvement in security metrics.
+          </li>
+          <li>Added single-sign-on (SSO) support and rule-based access control using Keycloak as the identity provider.
+          </li>
+          <li>Improved authorization response time by 60% by designing and implementing an efficient Redis cache for
+              user authorization information which supported constant time O(1) lookup for 95% of the cases.
+          </li>
+          <li>Worked with Azure CI/CD pipelines to automate testing, packaging, and deployments.</li>
         </ul>
       </div>
     </div>
@@ -55,13 +64,14 @@ AI for social good, and privacy and fairness in AI. My previous work includes ML
         <h5 class="title"><img src="https://www.wipro.com/content/dam/nexus/en/wipro-logo-new-og-502x263.jpg" width="60px" height="30px"><b>Wipro</b></h5>
         <h6 class="exper-card"><i>(January-May, 2020)</i></h6>
         <ul>
-          <li>Worked on Proactive ticket monitoring for one of the largest telecom providers in the world.</li>
-          <li>The project dealt with event correlation, clustering, and predictive analysis of Simple Network Management Protocol (SNMP) event logs.</li>
-          <li>Derived correlations between various network elements.</li>
-          <li>Created situations based on the correlation of the alarms, and performed root cause analysis.</li>
-          <li>Incorporated functionalities such as dynamic update of the element correlation and resolution suggestion.</li>
-          <br>
-          <p>Result: Created 172 situations from 3859 alarms with 87% accuracy.</p>
+          <li>Worked with one of the largest telecom providers in the world to create a product to proactively monitor 
+              SNMP event logs using event correlation, clustering, and predictive analysis.
+          </li>
+          <li>Created 172 situations from 3859 alarms with 87% accuracy based on the correlation of the alarms, and
+              performed root cause analysis.
+          </li>
+          <li>Incorporated functionalities such as dynamic update of the element correlation and resolution suggestion.
+          </li>
         </ul>
       </div>
     </div>
@@ -71,10 +81,9 @@ AI for social good, and privacy and fairness in AI. My previous work includes ML
         <h5 class="title"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/ONGC_Logo.svg/1200px-ONGC_Logo.svg.png" width="56px" height="56px" style="margin-right:10px;"><b>Oil and Natural Gas Corporation</b></h5>
         <h6 class="exper-card"><i>(June-July, 2019)</i></h6>
         <ul>
-          <li>Worked with Convolutional Neural Networks and Generative Adversarial Networks for generating seismic survey paths.</li>
-          <li>Segmentation and Feature extraction from satellite images.</li>
-          <br>
-          <p>Result: Performed feature extraction on four types of landforms with 96% accuracy.</p>
+          <li>Developed U-Net with skip connections for the generative model and generated seismic survey paths with an 
+              accuracy of 72%.
+          </li>
         </ul>
       </div>
     </div>
