@@ -10,21 +10,17 @@ profile:
   image_circular: true # crops the image to make it circular
   address: 
 
-selected_papers: ture # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 news: false  # includes a list of news items
 ---
 Hi, I'm currently pursuing a Master's degree in Computer Science at University of California, Irvine.
 
-I have extensive working knowledge as a Software Engineer. In the past couple of years, I have worked on some very
-interesting problems like memory leakages, sso redirect problems, container memory management, message broking,
-asynchronous schedulers, network latency, caching strategies, and security vulnerabilities. Apart from these, my 
-regular work day involves architecting microservices, API design and development, performance testing, and pipelining.
+I'm actively seeking intern roles as a Software engineer for the Summer of 2024, starting full-time from December 2024.
 
-My research interests includes image and signal processing, neural network architectures amd their interpretability, and 
-healthcare. I'm also interested in AI for social good, and privacy and fairness in AI. My previous research includes 
-ML-powered Lab-on-Chip cytometry and other telemedicine devices. I have also worked on distributed ML, geospatial image 
-processing, and a bit of smart contracts.
+I have extensive working knowledge as a Software Engineer with a very good understanding of agile methodologies and software development lifecycle. In the past couple of years, I have worked on some very interesting problems like memory leakages, sso redirect problems, container memory management, message broking, asynchronous schedulers, network latency, caching strategies, and security vulnerabilities. Apart from these, my regular work day involves architecting microservices, API design and development, performance testing, and pipelining.
+ 
+My previous research experience includes ML-powered Lab-on-Chip cytometry, a bit of distributed ML, geospatial image processing, and a bit of smart contracts in Solidity.
 
 <br>
 <br>
@@ -40,23 +36,19 @@ processing, and a bit of smart contracts.
       <div class="info">
         <h4 class="title">Software Engineer</h4>
         <h5 class="title"><img src="https://soroco.com/wp-content/uploads/2021/08/logo-icon.svg" width="56px" height="56px"><b>Soroco</b></h5>
-        <h6 class="exper-card"><i>(November, 2020-Present)</i></h6>
+        <h6 class="exper-card"><i>(November, 2020-August, 2023)</i></h6>
         <ul>
-          <li>Extensive working experience in developing web services that follow SOAP protocol and REST guidelines in
-              Python and Go.
+          <li>Assumed end-to-end ownership of three Python and Go based microservices and developed their APIs that followed REST guidelines in Django and Flask frameworks with PostgreSQL backend.
           </li>
-          <li>Experience in working with observability tools such as Datadog and ElasticSearch for performance
-              monitoring and debugging.
+          <li>Developed continuous integration/continuous deployment (CI/CD) pipelines for automating testing, packaging, and deployments of Docker containers.
           </li>
-          <li>Accustomed to using platforms such as Veracode and Snyk for detecting and fixing security vulnerabilities
-              resulting in an 82% improvement in security metrics.
+          <li>Worked with Kubernetes for horizontally scaling Podman and Docker containerized services.
           </li>
-          <li>Added single-sign-on (SSO) support and rule-based access control using Keycloak as the identity provider.
+          <li>Led the team’s security initiatives using platforms such as Veracode and Snyk for detecting and fixing security vulnerabilities in python code resulting in an 82% improvement in security metrics.
           </li>
-          <li>Improved authorization response time by 60% by designing and implementing an efficient Redis cache for
-              user authorization information which supported constant time O(1) lookup for 95% of the cases.
+          <li>Improved authorization response time by 60% by designing and implementing an efficient Redis cache for user authorization information which supported constant time O(1) lookup for 95% of the cases.
           </li>
-          <li>Worked with Azure CI/CD pipelines to automate testing, packaging, and deployments.</li>
+          <li>Worked with Terraform CLI to provision Azure cloud infrastructure resources.</li>
         </ul>
       </div>
     </div>
@@ -85,6 +77,8 @@ processing, and a bit of smart contracts.
         <ul>
           <li>Developed U-Net with skip connections for the generative model and generated seismic survey paths with an 
               accuracy of 72%.
+          </li>
+          <li>Processed images in parallel using Apache Spark to achieve speedup by a factor of 8.
           </li>
         </ul>
       </div>
