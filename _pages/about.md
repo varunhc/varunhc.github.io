@@ -38,9 +38,9 @@ My previous research experience includes ML-powered Lab-on-Chip cytometry, a bit
         <h5 class="title"><img src="https://soroco.com/wp-content/uploads/2021/08/logo-icon.svg" width="56px" height="56px"><b>Soroco</b></h5>
         <h6 class="exper-card"><i>(November, 2020-August, 2023)</i></h6>
         <ul>
-          <li>Assumed end-to-end ownership of three Python and Go based microservices and developed their APIs that followed REST guidelines in Django and Flask frameworks with PostgreSQL backend.
+          <li>Assumed end-to-end ownership of Python, Java and Go based microservices and developed REST APIs in Django and Flask frameworks with PostgreSQL backend.
           </li>
-          <li>Developed continuous integration/continuous deployment (CI/CD) pipelines for automating testing, packaging, and deployments of Docker containers.
+          <li>Revamped the authorization and authentication framework in the existing software by creating wrappers to support the new flow in Python and Go.
           </li>
           <li>Worked with Kubernetes for horizontally scaling Podman and Docker containerized services.
           </li>
@@ -48,7 +48,7 @@ My previous research experience includes ML-powered Lab-on-Chip cytometry, a bit
           </li>
           <li>Improved authorization response time by 60% by designing and implementing an efficient Redis cache for user authorization information which supported constant time O(1) lookup for 95% of the cases.
           </li>
-          <li>Worked with Terraform CLI to provision Azure cloud infrastructure resources.</li>
+          <li>Leveraged observability tools such as Datadog and Elastic to monitor performance and discover bottlenecks.</li>
         </ul>
       </div>
     </div>
