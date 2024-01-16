@@ -6,5 +6,5 @@ inline: true
 
 <span> University of California, Irvine 
 <br> Master of Computer Science. GPA: 4.0/4.0
-<br> Coursework: Algorithms, Machine Learning, Object Oriented Design, Distributed Systems, Operating systems, Python, Optimization techniques, Database management
+<br> Coursework: Parallel and Distributed Computing, Data structures, Machine Learning, Artificial Intelligence
 <br> Graduation: December, 2024 </span>
