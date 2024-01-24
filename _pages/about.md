@@ -16,7 +16,7 @@ news: false  # includes a list of news items
 ---
 Hi, I'm currently pursuing a Master's degree in Computer Science at University of California, Irvine.
 
-I'm actively seeking intern roles as a Software engineer for the Summer of 2024, starting full-time from December 2024.
+I'm actively seeking intern roles as a Software engineer/ML engineer for the Summer of 2024 and available for a permanent position from December 2024.
 
 I have extensive working knowledge as a Software Engineer with a very good understanding of agile methodologies and software development lifecycle. In the past couple of years, I have worked on some very interesting problems like memory leakages, sso redirect problems, container memory management, message broking, asynchronous schedulers, network latency, caching strategies, and security vulnerabilities. Apart from these, my regular work day involves architecting microservices, API design and development, performance testing, and pipelining.
  
