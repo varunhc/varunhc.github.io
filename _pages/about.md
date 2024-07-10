@@ -14,11 +14,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 news: false  # includes a list of news items
 ---
-Hi, I'm currently pursuing a Master's degree in Computer Science at University of California, Irvine.
+Hi, I'm currently pursuing a Master's degree in Computer Science at the University of California, Irvine.
 
-I'm actively seeking intern roles as a Software engineer/ML engineer for the Summer of 2024 and available for a permanent position from December 2024.
+I'm actively seeking full-time roles as a Software/Cloud/ML engineer to start from December 2024.
 
-I have extensive working knowledge as a Software Engineer with a very good understanding of agile methodologies and software development lifecycle. In the past couple of years, I have worked on some very interesting problems like memory leakages, sso redirect problems, container memory management, message broking, asynchronous schedulers, network latency, caching strategies, and security vulnerabilities. Apart from these, my regular work day involves architecting microservices, API design and development, performance testing, and pipelining.
+I have extensive working knowledge as a Software Engineer with a very good understanding of agile methodologies, cloud technologies and software development lifecycle. In the past couple of years, I have worked on some very interesting problems like memory leakages, sso redirect problems, container memory management, message broking, asynchronous schedulers, network latency, caching strategies, and security vulnerabilities. Apart from these, my regular work day involves architecting microservices, API design and development, performance testing, and pipelining.
  
 My previous research experience includes ML-powered Lab-on-Chip cytometry, a bit of distributed ML, geospatial image processing, and a bit of smart contracts in Solidity.
 
@@ -34,8 +34,23 @@ My previous research experience includes ML-powered Lab-on-Chip cytometry, a bit
   <div class="outer">
     <div class="title-cards">
       <div class="info">
+        <h4 class="title">Cloud Reliability Engineer Intern</h4>
+        <h5 class="title"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2b36d228e7516167b88d701d8ebe8158/viant-technology-llc-viant-technology.png" width="56px" height="56px"><b> Viant</b></h5>
+        <h6 class="exper-card"><i>(November, 2020-August, 2023)</i></h6>
+        <ul>
+          <li>Developed metrics collection service using OpenTelemetry, FastAPI, and Logz.io.
+          </li>
+          <li>Scripted GitHub workflows for automating testing, containerization, and deployments to AWS EKS.
+          </li>
+          <li>Worked extensively with Helm charts and ArgoCD for managing EKS deployments.
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="title-cards">
+      <div class="info">
         <h4 class="title">Software Engineer</h4>
-        <h5 class="title"><img src="https://soroco.com/wp-content/uploads/2021/08/logo-icon.svg" width="56px" height="56px"><b>Soroco</b></h5>
+        <h5 class="title"><img src="https://soroco.com/wp-content/uploads/2021/08/logo-icon.svg" width="56px" height="56px"><b> Soroco</b></h5>
         <h6 class="exper-card"><i>(November, 2020-August, 2023)</i></h6>
         <ul>
           <li>Assumed end-to-end ownership of Python, Java and Go based microservices and developed REST APIs in Django and Flask frameworks with PostgreSQL backend.
@@ -55,7 +70,7 @@ My previous research experience includes ML-powered Lab-on-Chip cytometry, a bit
     <div class="title-cards">
       <div class="info">
         <h4 class="title">Data Scientist Intern</h4>
-        <h5 class="title"><img src="https://www.wipro.com/content/dam/nexus/en/wipro-logo-new-og-502x263.jpg" width="60px" height="30px"><b>Wipro</b></h5>
+        <h5 class="title"><img src="https://www.wipro.com/content/dam/nexus/en/wipro-logo-new-og-502x263.jpg" width="60px" height="30px"><b> Wipro</b></h5>
         <h6 class="exper-card"><i>(January-May, 2020)</i></h6>
         <ul>
           <li>Worked with one of the largest telecom providers in the world to create a product to proactively monitor 
