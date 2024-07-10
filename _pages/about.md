@@ -36,7 +36,7 @@ My previous research experience includes ML-powered Lab-on-Chip cytometry, a bit
       <div class="info">
         <h4 class="title">Cloud Reliability Engineer Intern</h4>
         <h5 class="title"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2b36d228e7516167b88d701d8ebe8158/viant-technology-llc-viant-technology.png" width="56px" height="56px"><b> Viant</b></h5>
-        <h6 class="exper-card"><i>(November, 2020-August, 2023)</i></h6>
+        <h6 class="exper-card"><i>(June, 2024-Present)</i></h6>
         <ul>
           <li>Developed metrics collection service using OpenTelemetry, FastAPI, and Logz.io.
           </li>
