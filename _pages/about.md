@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: left
-  image: https://drive.google.com/file/d/1P5UW34eamvTIxh2d7kuUrf1_7Eeh6Qn9/preview
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: 
 
