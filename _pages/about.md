@@ -16,9 +16,7 @@ news: false  # includes a list of news items
 ---
 Hi, I'm currently pursuing a Master's degree in Computer Science at the University of California, Irvine.
 
-I'm actively seeking full-time roles as a Software/Cloud/ML engineer to start from December 2024.
-
-I have extensive working knowledge as a Software Engineer with a very good understanding of agile methodologies, cloud technologies and software development lifecycle. In the past couple of years, I have worked on some very interesting problems like memory leakages, sso redirect problems, container memory management, message broking, asynchronous schedulers, network latency, caching strategies, and security vulnerabilities. Apart from these, my regular work day involves architecting microservices, API design and development, performance testing, and pipelining.
+I have extensive working knowledge as a Software Engineer with a very good understanding of agile methodologies, cloud technologies and software development lifecycle. In the past couple of years, I have worked on some very interesting problems like memory leakages, container memory management, message broking, asynchronous schedulers, network latency, caching strategies, and security vulnerabilities. Apart from these, my regular work day involves architecting microservices, API design and development, performance testing, and pipelining.
  
 My previous research experience includes ML-powered Lab-on-Chip cytometry, a bit of distributed ML, geospatial image processing, and a bit of smart contracts in Solidity.
 
